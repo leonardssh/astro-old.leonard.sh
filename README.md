@@ -9,4 +9,4 @@ This is the [Astro](https://astro.build/) app that runs on [leonard.sh](https://
 -   🧩 Components by [React](https://reactjs.org/).
 -   🎨 Styled by [TailwindCSS](https://tailwindcss.com/).
 -   🖥️ Hosted by [Vercel](https://www.netlify.com/).
--   ✒️ Prototyped by [Figma](https://figma.com).
+-   ✒️ Prototyped with [Figma](https://figma.com).
