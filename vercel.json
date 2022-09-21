@@ -1,0 +1,14 @@
+{
+	"redirects": [
+		{ "source": "/github", "destination": "https://github.com/leonardssh" },
+		{ "source": "/gh", "destination": "https://github.com/leonardssh" },
+		{ "source": "/twitter", "destination": "https://twitter.com/leonardssh22" },
+		{ "source": "/instagram", "destination": "https://www.instagram.com/leonardssh22" },
+		{ "source": "/ig", "destination": "https://www.instagram.com/leonardssh22" },
+		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/leonardssh/" },
+		{ "source": "/playlist-manele", "destination": "https://open.spotify.com/playlist/0gzbltRaDyU3OCfOWrTI5d?si=f18ad4a3d0664fc8" },
+		{ "source": "/spotify", "destination": "https://open.spotify.com/user/ocyp2kof25md0iwswap923kiy" },
+		{ "source": "/youtube", "destination": "https://www.youtube.com/LeonardSSH" },
+		{ "source": "/source", "destination": "https://github.com/leonardssh/leonard.sh" }
+	]
+}
